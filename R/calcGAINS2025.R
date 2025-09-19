@@ -4,7 +4,6 @@
 #' This function is meant to be used to clean-up, fill gaps and smoothen
 #' the GAINS data to obtain consistent timeseries of emission factors
 #' from 2005 to 2100.
-#' The actual generation REMIND-specific files happens in calcGAINS2025forREMIND.
 #'
 #' @return Emission factor timeseries for all scenarios from 2005 to 2100:
 #'         magclass object with dimensions region, year, and
